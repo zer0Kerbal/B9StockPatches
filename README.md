@@ -1,11 +1,11 @@
 <!-- Readme.md v1.1.1
-B9StockPatchesPatches (BSP)
+B9StockPatches (BSP)
 created: 23 Sep 19
 updated: 03 Jan 20 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-# B9StockPatchesPatches (BSP)
+# B9StockPatches (BSP)
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/B9StockPatches?include_prereleases)
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
@@ -13,7 +13,7 @@ updated: 03 Jan 20 -->
 
  This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.
 
-![B9StockPatchesPatches](http://www.camera-m.com/img/placeholder-image-wide.png)
+![B9StockPatches](http://www.camera-m.com/img/placeholder-image-wide.png)
 
 #### Dependencies
  - ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
