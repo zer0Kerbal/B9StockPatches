@@ -1,0 +1,26 @@
+{
+    "spec_version": "v1.4",
+    "identifier":   "B9StockPatches",
+    "$kref":        "#/ckan/spacedock/971",
+    "$vref":        "#/ckan/ksp-avc",
+    "abstract"       : "Adds a selection of B9fuelswitch tank types to stock and DLC fuel tanks.",
+    "author"         : "zer0Kerbal",
+    "license":      "MIT",
+    "release_status" : "stable",
+    "resources": {
+        "homepage" : "http://forum.kerbalspaceprogram.com/index.php?showtopic=140541"
+    "install": [ {
+        "find":       "B9StockPatches",
+        "install_to": "GameData"
+    } ],
+    "depends": [
+        { "name": "ModuleManager" },
+        { "name": "B9PartSwitch" }
+    ],
+    "install": [
+        {
+            "find"       : "B9StockPatches",
+            "install_to" : "GameData"
+        }
+    ]
+}
