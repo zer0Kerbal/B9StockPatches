@@ -13,7 +13,7 @@ updated: 03 Jan 20 -->
 
  This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.
 
-![B9StockPatchesPatches](https://i.imgur.com/VGwKrJn.png)
+![B9StockPatchesPatches](http://www.camera-m.com/img/placeholder-image-wide.png)
 
 #### Dependencies
  - ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
