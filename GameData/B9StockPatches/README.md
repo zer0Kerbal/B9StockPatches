@@ -26,10 +26,10 @@ updated: 03 Jan 20 -->
 
 #### Suggests *(other fun mods by zed'K)*:
 - ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
-- ![On Demand Fuel Cells Refueled]()
+- ![On Demand Fuel Cells Refueled](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
 - ![Simple Logistics]()
-- ![Field Training Lab (FTL)]()
-- ![Field Training Facility (FTF)]()
+- ![Field Training Lab (FTL)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*)
+- ![Field Training Facility (FTF)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*)
 - ![KGEx (coming soon)]()
 
 <!--
