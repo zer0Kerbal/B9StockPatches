@@ -16,20 +16,20 @@ updated: 03 Jan 20 -->
 ![B9StockPatches](http://www.camera-m.com/img/placeholder-image-wide.png)
 
 #### Dependencies
- - ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
- - ![Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
- - ![B9PartSwitcher](http://forum.kerbalspaceprogram.com/index.php?showtopic=140541)
+ - ![Kerbal Space Program](https://kerbalspaceprogram.com/) v1.8.1, ***may*** work on earlier versions
+ - ![Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*/)
+ - ![B9PartSwitcher](http://forum.kerbalspaceprogram.com/index.php?showtopic=140541/)
 
 #### Supports
-- ![Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-*)
-- ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+- ![Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-*/)
+- ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*/)
 
 #### Suggests *(other fun mods by zed'K)*:
-- ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
-- ![On Demand Fuel Cells Refueled](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
+- ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated/)
+- ![On Demand Fuel Cells Refueled](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/)
 - ![Simple Logistics]()
-- ![Field Training Lab (FTL)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*)
-- ![Field Training Facility (FTF)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*)
+- ![Field Training Lab (FTL)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*/)
+- ![Field Training Facility (FTF)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*/)
 - ![KGEx (coming soon)]()
 
 <!--
