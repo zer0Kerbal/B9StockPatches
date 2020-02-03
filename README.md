@@ -1,7 +1,7 @@
-<!-- Readme.md v1.1.1
+<!-- Readme.md v1.1.1.1
 B9StockPatches (BSP)
-created: 23 Sep 19
-updated: 03 Jan 20 -->
+created: 23 Sep 2019
+updated: 03 Feb 2020 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
@@ -11,7 +11,7 @@ updated: 03 Jan 20 -->
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ![License MIT](https://img.shields.io/badge/license-MIT-red)
 
- This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.
+ This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks. If Near Future Exploration is installed, will switch (silver) LFO tank to LF and (metal) LFO tank to Oxidizer.
 
 ![B9StockPatches](http://www.camera-m.com/img/placeholder-image-wide.png)
 
@@ -23,6 +23,10 @@ updated: 03 Jan 20 -->
 #### Supports
 - ![Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-*)
 - ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+- ![SimpleConstruction]()
+- ![Near Future Exploration]()
+- ![]()
+
 
 #### Suggests *(other fun mods by zed'K)*:
 - ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
@@ -31,6 +35,8 @@ updated: 03 Jan 20 -->
 - ![Field Training Lab (FTL)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*)
 - ![Field Training Facility (FTF)](https://forum.kerbalspaceprogram.com/index.php?/topic/188841-171-*)
 - ![KGEx (coming soon)]()
+- ![ProtiTronics]()
+- ![Biomatic]()
 
 <!--
 This readme is
