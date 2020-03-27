@@ -198,7 +198,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [LINK:blowfish]: https://forum.kerbalspaceprogram.com/index.php?/profile/119688-blowfish/ "Blowfish"  
 [LINK:jadeofmaar]: https://forum.kerbalspaceprogram.com/index.php?/profile/167617-jadeofmaar/ "JadeofMaar"  
 
-[IMG:hero:0]: http://www.camera-m.com/img/placeholder-image-wide.png "placeholder"
+[IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/graphics/B9StockSwitch-hero02-750x750.png "placeholder"
 [IMG:hero:1]: https:// "" 
 [IMG:hero:2]: https:// ""  
 
