@@ -99,6 +99,8 @@ Author: [@zer0Kerbal][LINK:zer0Kerbal]
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
 License: ![License MIT][shield:license] ![][LOGO:mit]  
+<!-- graphical links to downloads -->
+[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
 ###### v1.0.0.0 original: 11 Aug 2018 0K updated: 26 Mar 2020 zed'K
 
 <!-- graphical links to downloads -->
