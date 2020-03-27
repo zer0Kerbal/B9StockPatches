@@ -51,7 +51,7 @@ updated: 2020 03 26 -->
 - Use [![CKAN][[image:rel-ckan]][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-- [x] [Module Manager][thread:mm] [^2]
+- [x] [Module Manager][thread:mm] [^1]
 - [x] [B9PartSwitcher][thread:B9]  
 ### Recomends  
 - [KGex][thread:KGX] **adds more tanks types**
@@ -107,7 +107,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [MOD:issues]:       https://github.com/zer0Kerbal/B9StockPatches/issues
 [MOD:wiki]:         https://github.com/zer0Kerbal/B9StockPatches/
 [MOD:known]:        https://github.com/zer0Kerbal/B9StockPatches/wiki/Known-Issues
-[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*
+[MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*
 [MOD:github:repo]:  https://github.com/zer0Kerbal/B9StockPatches/
 [MOD:changelog]:    https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/Changelog.cfg
 [KSP:website]:      http://kerbalspaceprogram.com/
@@ -123,8 +123,8 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 
 [MOD:rel-github]:    https://github.com/zer0Kerbal/B9StockPatches/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/971
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/B9StockPatches
+[MOD:rel-spacedock]: http://spacedock.info/mod/2374
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/b9Stockpatches
 [MOD:rel-ckan]:       http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
 [image:rel-github]:     https://i.imgur.com/RE4Ppr9.png
