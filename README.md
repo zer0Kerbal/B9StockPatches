@@ -48,7 +48,7 @@ updated: 2020 03 26 -->
 *See [Known Issuues][MOD:known] for any known issues*
 ***
 ### Installation Directions:
-- Use [![CKAN][[image:rel-ckan]][thread:ckan]
+- Use [![CKAN][[image:rel-ckan][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
 - [x] [Module Manager][thread:mm] [^1]
