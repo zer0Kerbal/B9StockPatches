@@ -10,10 +10,10 @@ updated: 2020 03 26 -->
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
-![Code][shield:code] ![Validate AVC .version files][shield:avcvalid]  
+![Validate AVC .version files][shield:avcvalid]  
 ***
-> This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks. 
->Do not bother [@Blowfish][LINK:blowfish] with support requests for this, since he has nothing to do with this mod.
+### This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.  
+##### <mark>Do not bother [@Blowfish][LINK:blowfish] with support requests for this mod.</mark>  
 ![B9 Stock Patches][IMG:hero:0] 
 
 ### Installing this adds a selection of B9 tank types to most stock tanks  
@@ -76,7 +76,7 @@ updated: 2020 03 26 -->
 - [x] [SimpleConstructon!][thread:SC!]  
 - [x] [Not So SimpleConstructon!][thread:NSSC]  
 
-- [x] [TweakScale][thread:twks]
+- [x] [TweakScale][thread:twk]
 ### Supports
 - [x] [Kerbal Change Log][thread:kcl]  
 - [x] [SimpleConstructon!][thread:SC!]
