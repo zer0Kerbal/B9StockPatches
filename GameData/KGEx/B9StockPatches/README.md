@@ -34,7 +34,7 @@ updated: 2020 03 26 -->
 - Combination RocketParts + Metal + Ore
 
 #### Cabin notes:  
-- Tank sizes are automatically determined by existing parts exisitng capacioty (thank you to [@JadeofMaar][LINK:jadeofmaar])
+- Tank sizes are automatically determined by existing parts existing capacity (thank you to [@JadeofMaar][LINK:jadeofmaar])
 - Default tank type should not change, if it was MP it still should be MP
 - If Near Future Exploration is installed, will switch (silver) LFO tank to LF and (metal) LFO tank to Oxidizer.
 - If KGEx is installed, several more combination tanktypes will become available.
@@ -48,7 +48,8 @@ updated: 2020 03 26 -->
 *See [Known Issuues][MOD:known] for any known issues*
 ***
 ### Installation Directions:
-- Use [![CKAN][[image:rel-ckan]][thread:ckan]
+- Use   
+[![CKAN][image:rel-ckan]][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
 - [x] [Module Manager][thread:mm] [^1]
@@ -102,6 +103,8 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 ###### v1.0.0.0 original: 11 Aug 2018 0K updated: 26 Mar 2020 zed'K
 
 <!-- graphical links to downloads -->
+[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
+
 [MOD:license]:      https://github.com/zer0Kerbal/B9StockPatches/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/B9StockPatches/blob/master/.github/CONTRIBUTING.md
 [MOD:issues]:       https://github.com/zer0Kerbal/B9StockPatches/issues
