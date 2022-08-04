@@ -1,8 +1,8 @@
-# settings.yml 1.0.9.5
+# settings.yml 1.0.9.6
 # this file: CC BY-ND 4.0
 # zer0Kerbal
 # created 01 Jan 2022
-# updated 09 Ju6 2022
+# updated 04 Aug 2022
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
@@ -28,10 +28,6 @@ labels:
   - name: "help wanted"
     color: 008672
     description: "assistance, help, input solicited"
-
-  - name: discussion
-    color: 6495ED
-    description: "discussion, conversation, chat, conversation"
 
   - name: duplicate
     color: FFFFF0
@@ -119,16 +115,6 @@ labels:
     color: FBCA04
     description: issue originates from external sources
 
-  - name: "type: localization"
-    oldname: localization
-    # include the old name to rename an existing label
-    color: FFFFF0
-    description: related to localization and translations
-
-  - name: "type: infrastructure"
-    color: ffdda8
-    description: improvements or additions to project infrastructure
-
   - name: "type: automation"
     color: fbca04
     description: issues for automation actions
@@ -136,6 +122,15 @@ labels:
   - name: "type: fix"
     color: 91ca55
     description: Iterations on existing features or infrastructure.
+
+  - name: "type: infrastructure"
+    color: ffdda8
+    description: improvements or additions to project infrastructure
+
+  - name: "type: localization"
+    oldname: localization
+    color: FFFFF0
+    description: related to localization and translations
 
   - name: "type: testing"
     color: fbca04
@@ -149,6 +144,10 @@ labels:
     oldname: discussion
     color: d4c5f9
     description: Questions, queries, posers, proposals and info that requires discussion.
+
+  - name: "type: imgbot"
+    color: d4c5f9
+    description: imgbot automation.
 
   - name: "type: docs"
     color: fef2c0
@@ -234,6 +233,10 @@ labels:
 milestones:
   - title: 1.0.99.0-prerelease
     description: progress toward 1.0.99.0-prerelease
+    state: open
+
+  - title: 1.0.1.0-release
+    description: progress toward 1.0.1.0-release
     state: open
 
   - title: Localization - Master
