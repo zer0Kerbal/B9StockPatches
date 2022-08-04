@@ -16,7 +16,7 @@ updated: 2020 03 26 -->
 
 ---
 
-### This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.
+### This addon uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.
 
 ##### <mark>Do not bother [@Blowfish][blowfish] with support requests for this mod.</mark>
 
