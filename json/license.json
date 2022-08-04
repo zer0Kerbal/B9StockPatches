@@ -1,8 +1,10 @@
 {
-  "schemaVersion": 1,
-  "label": "License",
-  "labelColor": "black",
-  "message": "MIT",
-  "color": "red",
-  "style": "plastic"
+ "schemaVersion": 1,
+ "label": "License",
+ "labelColor": "black",
+ "message": "Expat-MIT",
+ "color": "3DA639",
+ "logoColor": "3DA639",
+ "namedLogo": "OpenSourceInitiative",
+ "style": "plastic"
 }
