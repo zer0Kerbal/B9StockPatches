@@ -1,5 +1,5 @@
 <!-- Readme.md v1.1.3.0
-B9 Stock Patches (BSP)
+B9 Stock Patches (B9SP)
 created: 23 Sep 2019
 updated: 2020 03 26 -->
 
