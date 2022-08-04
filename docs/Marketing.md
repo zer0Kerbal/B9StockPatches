@@ -26,7 +26,7 @@ based upon work by LisiasT -->
 
 ### In Action
 
-![In Action](https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/img/B9StockSwitch-hero02-750x750.png)
-[top](#Table-of-Contents)
+![In Action](https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/img/B9StockSwitch-hero02-750x750.png)
+[top](#Marketing-Slicks)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
