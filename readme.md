@@ -9,8 +9,8 @@ updated: 2020 03 26 -->
 
 ### Created by [@zer0Kerbal][zer0kerbal]  [email][email:zer0Kerbal] with continued support from the community.
 
-![Mod Version][shield:mod:latest] 
-![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit] 
+![Mod Version][shield:mod:latest]
+![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]
 ![Validate AVC .version files][shield:avcvalid]
 
@@ -123,9 +123,9 @@ updated: 2020 03 26 -->
 #### aka Legal Mumbo Jumbo
 
 Source: [GitHub][MOD:github:repo]
-License: ![License MIT][shield:license] ![][LOGO:mit]  
+License: ![License MIT][shield:license] ![][LOGO:mit] 
 > *** All bundled mods are distributed under their own licenses***
-> *** All art assets (textures, models, animations) are distributed under their own licenses*** 
+> *** All art assets (textures, models, animations) are distributed under their own licenses***
 
 ### Original
 
@@ -151,7 +151,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 
 <!--- original mod stuff -->
 [MOD:original:source]:   https://github.com/zer0Kerbal/B9StockPatches/
-[MOD:original:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "Dev Thread" 
+[MOD:original:thread]:  https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "Dev Thread"
 [MOD:original:download]:  https://github.com/zer0Kerbal/B9StockPatches/
 
 <!--- license logo urls -->
@@ -199,7 +199,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 [OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/ "Oh Scrap!"
 [SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/ "ScrapYard"
 
-[DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions (DPD)" 
+[DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions "Docking Port Descriptions (DPD)"
 [PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/  "PicoPort Shielded (PPS)"
 [DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-*/ "DaMichel's Spherical Tanks (DST)"
 [DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-*/ "DaMichel's Fuselage (DMF)"
