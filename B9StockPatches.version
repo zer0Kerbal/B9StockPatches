@@ -1,5 +1,5 @@
 {
-    "NAME"           : "B9 Stock Patches (B9P)",
+    "NAME"           : "B9 Stock Patches (B9SP)",
     "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/B9StockPatches.version",
     "DOWNLOAD"       : "https://github.com/zer0Kerbal/B9StockPatches/releases/latest",
     "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/Changelog.cfg",
@@ -37,6 +37,6 @@
     "INSTALL_LOC" :
     {
         "NAME" :          "B9StockPatches",
-        "DIRECTORY" :     "B9StockPatches"
+        "DIRECTORY" :     "KGEx/B9StockPatches"
     }
 }
