@@ -68,8 +68,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * #.#.#.#.htm
         * Attributions.htm
         * B9StockPatches.version
+        * CC-BY-NC-SA-4.0.txt
         * changelog.md
-        * GPL-3.0.txt
         * ManualInstallation.htm
         * readme.htm
       ...
