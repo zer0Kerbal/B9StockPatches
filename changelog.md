@@ -2,7 +2,7 @@
   
 | modName    | B9 Stock Patches (B9SP)                                           |
 | ---------- | ----------------------------------------------------------------- |
-| license    | Expat-MIT                                                         |
+| license    | CC-BY-NC-SA-4.0                                                   |
 | author     | zer0Kerbal                                                        |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/B9StockPatches)         |
