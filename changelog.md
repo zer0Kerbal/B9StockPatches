@@ -13,7 +13,13 @@
 ## Version 1.0.1.0-release `<BugSpray>` edition
 
 KSP_VERSION_MAX
+CommunityResourcePack.cfg v1.0.1.0
+KGEx.cfg
+B9StockPatches.cfg
+SimpleConstruction.cfg
+* @PART[*]
 
+[KFEx.cfg] --> [NearFutureExploration.cfg] v1.0.1.0
 
 ### Status 1.0.1.0
 
