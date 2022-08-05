@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: b9,b9partswitch,modulemanager,module-manager,fuelswitch,stock,resources,fuel,kerbal,kerbalspaceprogram,kerbal-space,kerbal-space-program,kerbal-mods,ksp,ksp-mods,zedk
+  topics: b9,b9partswitch,modulemanager,module-manager,fuelswitch,stock,resources,fuel,kerbal,kerbalspaceprogram,kerbal-space,kerbal-space-program,kerbal-mods,ksp,ksp-mods,mod,zedk
 
 # Labels: define labels for Issues and Pull Requests
 labels:
