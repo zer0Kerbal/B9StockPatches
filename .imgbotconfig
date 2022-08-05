@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/NecroBones/ElephantEngine/*",
+        "GameData/KGEx/B9StockPatches/*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",
