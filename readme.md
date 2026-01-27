@@ -1,9 +1,9 @@
-<!-- Readme.md v1.1.3.0
+<!-- Readme.md v1.1.4.0
 B9 Stock Patches (B9SP)
 created: 23 Sep 2019
-updated: 2020 03 26 -->
+updated: 2026 01 26 -->
 
-## Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][MOD:rel-ckan]
+## Download on [Curseforge][MOD:rel-curseforge].
 
 # B9StockPatches (B9P)
 
@@ -11,8 +11,7 @@ updated: 2020 03 26 -->
 
 ![Mod Version][shield:mod:latest]
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:mit]
-![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]
-![Validate AVC .version files][shield:avcvalid]
+![Curseforge][shield:curseforge]
 
 ---
 
@@ -66,8 +65,7 @@ updated: 2020 03 26 -->
 
 ### Installation Directions
 
-* Use
-[![CKAN][image:rel-ckan]][ckan]
+* 
 
 ### Dependencies
 
@@ -75,7 +73,7 @@ updated: 2020 03 26 -->
 * [Module Manager][mm] [^1]
 * [B9PartSwitcher][B9]
 
-### Recomends
+### Recommends
 
 * [KGex][KGX] **adds more tanks types**
 * [Community Resource Pack][CRP]
@@ -135,8 +133,8 @@ Author: [@zer0Kerbal][zer0Kerbal]
 Source: [GitHub][MOD:original:source]
 License: ![License MIT][shield:license] ![][LOGO:mit]
 
-<!-- graphical links to downloads -->
-[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge]
+[![][image:rel-curseforge]][MOD:rel-curseforge]
+
 ###### v1.0.0.0 original: 11 Aug 2018 0K updated: 26 Mar 2020 zed'K
 
 [MOD:license]:      https://github.com/zer0Kerbal/B9StockPatches/blob/master/LICENSE
@@ -219,7 +217,7 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 
 [mm]:   http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "ModuleManager"
 [kcl]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*/ "Kerbal Changelog"
-[ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
+[ckan:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [NFX]: https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*/ "Near Future Exploration"
@@ -237,8 +235,8 @@ License: ![License MIT][shield:license] ![][LOGO:mit]
 
 [IMG:hero:0]: https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/graphics/B9StockSwitch-hero02-750x750.png "placeholder"
 
-[UTUBE:img]:  https://  ""
-[UTUBE:link]: https:// ""
+[UTUBE:img]:  https://
+[UTUBE:link]: https://
 
 [^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
